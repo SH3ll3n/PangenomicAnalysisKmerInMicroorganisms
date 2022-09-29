@@ -12,7 +12,8 @@ o 20).
 To download the sequences of the microorganisms, you can search in online databases (eg.
 NCBI). This is an example of what the files look like once downloaded:
 
-```>NC_041693.1 Plasmodium sp. gorilla clade G2 genome assembly, chromosome: 1
+```
+>NC_041693.1 Plasmodium sp. gorilla clade G2 genome assembly, chromosome: 1
 TCATGATATTAGAGCAAAGGGTTCCATTtgcttttattatattaagacataaattatattctCTTCAATGTATATTagat
 ataaagaataataataatgataagaaTATGATGAAATGGGGTAAGTAATTATCTTAGAATGTATGTTGATTATATTATGG
 GTGAGATAAAAAACCTTGAAATACCTATAGATagtaacaaatataaaatatggaaatttcatataaatttaaaattattt
