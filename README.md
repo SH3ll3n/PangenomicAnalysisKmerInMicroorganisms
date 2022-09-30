@@ -21,7 +21,7 @@ tgttttaagtAGAACTATGAAAGGAATtaccattttttattaaaggaTTGCTAATATGAAAGAGACAAATTGAAGAAATA
 ```
 
 # How to use
-To use, jupyter-notebook is launched with the command on shell:
+Jupyter-notebook is launched with the command on shell:
 
 ```jupyter-notebook```
 
