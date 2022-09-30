@@ -1,7 +1,7 @@
 # Pangenomic analysis of k-mer in microorganisms
 
 # What is it
-Pangenomic analysis of k-mer in microorganisms is a tool for an educational project in the university
+Pangenomic analysis of k-mer in microorganisms is a tool for an educational university project 
 to analyze the k-mer content of populations of microorganisms (by microorganisms we mean viruses, 
 bacteria and protozoa).
 
