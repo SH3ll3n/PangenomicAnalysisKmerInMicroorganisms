@@ -9,7 +9,7 @@ bacteria and protozoa).
 For installation you need to have installed jupyter-notebook. With Linux it works without problems,
 with Windows you install a PowerShell (Ubuntu on Windows, version 18
 o 20). 
-To download the sequences of the microorganisms, you can search in online databases (eg.
+To download the sequences of the microorganisms, you can search online databases (eg.
 NCBI). This is an example of what the files look like once downloaded:
 
 ```
