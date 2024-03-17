@@ -1,4 +1,4 @@
-# Pangenomic analysis of k-mer in microorganisms
+# PangenomicAnalysisKmerInMicroorganisms
 
 # What is it
 Pangenomic analysis of k-mer in microorganisms is a tool for an educational university project 
